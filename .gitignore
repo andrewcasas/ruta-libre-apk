@@ -1,0 +1,6 @@
+.git-token
+build/
+.gradle/
+local.properties
+.idea/
+*.iml
